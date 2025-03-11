@@ -21,9 +21,22 @@ body{
         padding-bottom: 10px;
     }
 
-    .cinza{
+    #cinzacima{
         background-color: rgb(209, 199, 199);
         margin: 0px;
-        padding: 30px;
-        padding-bottom: 10px;
+        padding: 0px;
+        padding-bottom: 3px;
+    }
+
+    .flex{
+        display: flex;
+    }
+
+    .cinzinhas{
+        background-color: rgb(209, 199, 199);
+        margin: 5px;
+        padding: 5px;
+        padding-bottom: 5px;
+        border-color: gray;
+        border-style: solid;
     }
