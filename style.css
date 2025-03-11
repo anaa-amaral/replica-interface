@@ -1,5 +1,19 @@
-#navbar{
-    background-color: grey;
-    color:black ;
+body{ 
+    margin: 0px;
+    padding: 0px;   
+    border: 20px; 
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    }
     
-}
+    #navbar{ 
+        margin: 0px;
+        padding: 0px;
+        background-color: rgb(173, 163, 163);
+        color:rgb(0, 0, 0);
+    }
+
+    .amarela{
+        background-color: rgb(255, 196, 0);
+    }
