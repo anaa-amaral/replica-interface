@@ -24,8 +24,8 @@ body{
     #cinzacima{
         background-color: rgb(209, 199, 199);
         margin: 0px;
-        padding: 0px;
-        padding-bottom: 3px;
+        padding: 10px;
+        padding-bottom: 10px;
     }
 
     .flex{
@@ -39,4 +39,25 @@ body{
         padding-bottom: 5px;
         border-color: gray;
         border-style: solid;
+    }
+
+    .um{
+        background-color: rgb(201, 53, 53);
+        margin: 5px;
+        padding: 190px;
+        padding-right: 250px;
+    }
+
+    .dois{
+        background-color: rgb(78, 12, 12);
+        margin: 5px;
+        padding: 190px;
+        padding-right: 1250px;
+    }
+
+    .tres{
+        background-color: rgb(156, 120, 120);
+        margin: 5px;
+        padding: 190px;
+        padding-right: 1250px;
     }
